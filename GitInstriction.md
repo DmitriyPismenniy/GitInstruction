@@ -1,6 +1,6 @@
-# Инcтрукция по установке и работе c Git и Visual Studio Code
+# Installation instraction and common comands for Git 
 
-## Установка Git
+## Installation of Git & Visual Studio Code
 
-## Основные команды git
+## Common comands for Git
 
