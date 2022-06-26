@@ -1,4 +1,4 @@
-# Installation instruction and common comands for Git 
+# Installation instruction and common commands for Git 
 
 ## Installation of Git & Visual Studio Code
 
@@ -14,7 +14,7 @@ git config --global user.email ваша почта@example.com
 
 Проверить версию Git можно с помощью команды: git --version
 
-## Common comands for Git
+## Common commands for Git
 
 git init – инициализация локального репозитория
 ✦	git status – получить информацию от git о его текущем состоянии
