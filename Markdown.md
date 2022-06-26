@@ -53,5 +53,3 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 Для исключения изображения из сохранения внутри текста, необходимо создать файл .gitignore и в него добавить имя файла изображения
 
-
-## Ссылки
