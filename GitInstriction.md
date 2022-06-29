@@ -24,3 +24,11 @@ git config --global user.email ваша почта@example.com
 * **git checkout** – переход от одного коммита к другому
 * **git checkout master** – вернуться к актуальному состоянию и продолжить работу
 * **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
+
+## Branch commands for Git
+* **git branch** - вывод списка веток
+* **git branch new_branch_name** - создание ветки с именем new_branch_name
+* **git checkout new_branch_name** – переход на ветку с именем new_branch_name
+* **git merge existing_branch_name** - объединение текущей ветки с веткой existing_branch_name
+
+
