@@ -62,5 +62,3 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ## Действие "Дальнейшие действия"
 
 ## Подстрочные и надстрочные символы
-
-dfdf
