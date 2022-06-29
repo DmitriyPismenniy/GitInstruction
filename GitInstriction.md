@@ -28,4 +28,5 @@ git config --global user.email ваша почта@example.com
 ## Branch commands for Git
 * **git branch** - вывод списка веток
 * **git branch new_branch_name** - создание ветки с именем new_branch_name
+* **git checkout new_branch_name** – переход на ветку с именем new_branch_name
 
