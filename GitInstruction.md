@@ -20,7 +20,6 @@ git config --global user.email ваша почта@example.com
 * **git status** – получить информацию от git о его текущем состоянии
 * **git add** – добавить файл или файлы к следующему коммиту
 * **git commit -m “message”** – создание коммита
-* **git log** – вывод на экран истории всех коммитов с их хеш-кодами
 * **git checkout** – переход от одного коммита к другому
 * **git checkout master** – вернуться к актуальному состоянию и продолжить работу
 * **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
@@ -32,3 +31,8 @@ git config --global user.email ваша почта@example.com
 * **git merge existing_branch_name** - объединение текущей ветки с веткой existing_branch_name
 * **git branch -d existing_branch_name** - удаление ветки с именем existing_branch_name
 
+## Log commands for Git
+* **git log** – вывод на экран истории всех коммитов с их хеш-кодами
+* **git log --oneline** – вывод на экран истории всех коммитов в краткой форме
+* **git log --merges** – вывод на экран истории всех коммитов при слиянии веток
+* **git log --stat** – вывод на экран истории всех коммитов со статистикой
