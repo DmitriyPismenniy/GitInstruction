@@ -55,6 +55,8 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 ## Апострофы и кавычки
 
+левая (открывающая) кавычка: &#8220;;
+
 ## Блок цитирования
 
 ## Отступы
