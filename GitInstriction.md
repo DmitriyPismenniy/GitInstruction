@@ -30,5 +30,5 @@ git config --global user.email ваша почта@example.com
 * **git branch new_branch_name** - создание ветки с именем new_branch_name
 * **git checkout new_branch_name** – переход на ветку с именем new_branch_name
 * **git merge existing_branch_name** - объединение текущей ветки с веткой existing_branch_name
-
+* **git branch -d existing_branch_name** - удаление ветки с именем existing_branch_name
 
